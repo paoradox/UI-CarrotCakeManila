@@ -23,7 +23,7 @@ A beautifully designed user interface for a carrot cake brand concept, "Carrot C
 
 | Category | Technologies |
 |----------|--------------|
-| **Frontend** | HTML5, CSS3, BulmaCSS |
+| **Frontend** | HTML5, CSS3 |
 | **Hosting** | Vercel |
 
 ---
